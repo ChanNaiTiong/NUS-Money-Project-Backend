@@ -13,6 +13,6 @@ server.use(express.json());
 
 server.use(api.router);
 
-server.listen(3000, () => {
+server.listen(3001, () => {
     console.log (`Server is starting`);
 });
