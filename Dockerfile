@@ -1,5 +1,7 @@
 FROM ubuntu:18.04
 
+EXPOSE 3001
+
 RUN apt-get update
 
 RUN apt-get install -y nodejs npm
