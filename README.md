@@ -12,7 +12,7 @@
    * Deploy - Deploy it to a server in the cloud.
    * Monitor - Perhap in the future ??
 
-## What is achieved:
+## What has been achieved:
 
 1. Successfully containerised my NUS Money backend. Run & tested on cloud shell editor machine.
 2. Created a shell script, pipeline.sh, to automate the creation and running of container on cloud shell editor machine.
